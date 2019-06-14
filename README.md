@@ -1,3 +1,38 @@
+El Universo de Ron
+
+El suicidio es la tercera causa de muerte en adolescentes mayores (15-19 años). 
+
+Casi el 90% de los adolescentes del mundo viven en países de ingresos bajos o medianos, pero más del 90% de los suicidios de adolescentes se encuentran entre los adolescentes que viven en esos países. 
+
+Los intentos de suicidio pueden ser impulsivos o estar asociados con un sentimiento de desesperanza o soledad.
+
+    * Desesperanza la carencia de sentido a la vida.
+    *Soledad Estado de Aislamiento
+
+OMS
+
+En todos los países del mundo se ha situado prioritaria la necesidad de cubrir las necesidades sociales, emocionales y mentales de los niños (UNICEF) 
+
+Los informes epidemiológicos ponen de relieve el aumento de trastornos de la salud mental en la infancia, ya que uno de cada cinco niños y adolescentes sufren trastornos psicológicos. Sin embargo, menos del 15% de los menores que necesitan ayuda reciben la atención que necesitan.
+
+El aprendizaje emocional y social es el proceso mediante el cual se adquieren competencias para reconocer y manejar emociones, demostrar interés y preocupación por los demás, entablar relaciones positivas, tomar decisiones responsables y afrontar los desafíos con eficacia 
+
+Las competencias de la Educacion Emocional engloban las habilidades fundamentales requeridas para la práctica de conductas saludables, la adopción de una actitud cívica y el logro del éxito académico.
+
+NUESTRO OBJETIVO
+
+Niños capaces de reconocer sus emociones mejorara su calidad de vida.
+
+Usuario Niños de 6 a 9 años.
+
+El Universo de Ron es una app basada en test psicologicos, para el conocimiento de la personalidad y el temperamento del niño.
+
+La interfaz les permite crear su propio universo, elegir a su acompañante diario, personajes que representan, miedo, asco, enfado, sorpresa, felicidad y tristeza.
+
+Esta app esta inspirada en los beneficios que han generado las mascotas virtuales permitiendo que los niños se sientan seguros, responsables y generen confianza.
+
+El personaje, estara en constante comunicacion con el niño advirtiendole en caso de ser el personaje de la frustracion, se levanta molesto, siente ansiedad, etc, proprocionara cuentos cortos enfocados a cada emocion y cada personaje tendra como principal objetivo propornele al niño contarle un "Secreto" (texto que sera cifrado) la interfaz le brindara la opcion de GUARDAR o DESTRUIR el "Secreto", en caso de elegir guardarlo, el niño tendra acceso a sus secretos cifrados que podra descifrar posteriormente.
+
 # Cifrado César
 
 Cifrar significa codificar. El [cifrado César](https://en.wikipedia.org/wiki/Caesar_cipher) es uno de los primeros métodos de cifrado conocidos. El emperador romano Julio César lo usaba para enviar órdenes secretas a sus generales en los campos de batalla.
